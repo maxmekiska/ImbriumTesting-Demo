@@ -1,28 +1,21 @@
-# WORK IN PROGRESS - imbrium 2.0.0 is currently under active development
-
-## imbrium 2.0.0 development
-
-https://github.com/maxmekiska/imbrium/tree/development
-
-## Imbrium Demo & Testing
+# imbrium Demo & Testing
 
 This repository hosts Demos and Testing Assets for the Deep Learning Time Series Forecasting Python Library Imbrium.
 
-### Imbrium Links:
+### imbrium Links:
 
-Imbrium Source code repository: https://github.com/maxmekiska/imbrium <br>
+imbrium Source code repository: https://github.com/maxmekiska/imbrium/tree/development
+<br>
+imbrium PyPi: https://pypi.org/project/imbrium/
 
 
-Imbrium PyPi: https://pypi.org/project/imbrium/
+Please note: IntegrationTest.ipynb is only testing imbrium >= 2.0.0, it is not intended to maximize prediction performance
 
-### Integration Test Dataset used:
 
-Please note: IntegrationTest.ipynb is only testing imbrium 2.0.0, it does not optimize prediction performance
-
-#### Citation
+#### Example Data Citation:
 
 Vito,Saverio. (2016). Air Quality. UCI Machine Learning Repository. https://doi.org/10.24432/C59K5F.
 
-#### Link
+#### Link:
 
 https://archive.ics.uci.edu/dataset/360/air+quality
